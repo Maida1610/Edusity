@@ -1,3 +1,33 @@
+# 🎓 Edusity — Modern Education Website
+
+Edusity is a modern, responsive **educational website** built using 
+**HTML, CSS, JavaScript and React**.  
+This project focuses on a clean user interface and smooth user experience for students and learners.
+
+---
+
+## 🌟 Features
+
+✅ Beautiful & modern UI  
+✅ Fully responsive on all devices  
+✅ Built using React for component-based structure  
+✅ Smooth scrolling and animations  
+✅ Reusable components  
+✅ Clean and organized code  
+✅ Fast performance  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
+- **React.js**
+- **Vite / npm**
+
+---
+ 
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
